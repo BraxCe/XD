@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: thistle;
+}
+
+p{
+    color: tan;
+    font-size: 90px;
+}
